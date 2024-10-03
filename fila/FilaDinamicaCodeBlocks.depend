@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1727914426 source:c:\users\infortronic\documents\2°periodo\algoritmos e estrutura\fwefwe\fila.cpp
+	<cstdio>
+	<cstdlib>
+	"Fila.h"
+	"struct.h"
+
+1727915274 c:\users\infortronic\documents\2°periodo\algoritmos e estrutura\fwefwe\fila.h
+	"struct.h"
+
+1727915543 source:c:\users\infortronic\documents\2°periodo\algoritmos e estrutura\fwefwe\pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+	"struct.h"
+
+1727915338 c:\users\infortronic\documents\2°periodo\algoritmos e estrutura\fwefwe\pilha.h
+	"struct.h"
+
+1727916892 source:c:\users\infortronic\documents\2°periodo\algoritmos e estrutura\fwefwe\main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	"Fila.h"
+	"Pilha.h"
+	"struct.h"
+
+1727793920 source:c:\users\infortronic\documents\2°periodo\algoritmos e estrutura\fwefwe\pilha2.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha2.h"
+
+1727793115 c:\users\infortronic\documents\2°periodo\algoritmos e estrutura\fwefwe\pilha2.h
+
+1727915309 c:\users\infortronic\documents\2°periodo\algoritmos e estrutura\fwefwe\struct.h
+
